@@ -39,6 +39,7 @@ https://xss-game.appspot.com/level5/frame/signup?next=javascript:alert('GG')
 frame#www.google.com/jsapi?callback=alert
 ```
 Do you want a piece of cake?
+```
                                                          -oooo:-                                                        
                                                         omhsoosho`                                                      
                                                         Ndo:``:oh-                                                      
@@ -82,3 +83,4 @@ Do you want a piece of cake?
                       `.ohNNMMNMMNMNNmdmNNNNNNmNMNNMNNNNmNNNmmmNmNMMNNMNNMMNNNNNNNNNNMMMMMMMNNho.`                      
                           :+hdNNNNNNNNNNNNNNmNNNNNNNMNNNmNNNNmMmmmNNNMNNNNNNNNMNNMMMMMNNmdds/-                          
                              `--:+shddmmNmmmmNNNNMNNNMNNNNNNNNNNMMNMMMNNNmNNNMNNNNdh++/-.`                           
+```
